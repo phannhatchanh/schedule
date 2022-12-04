@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admincp TKB"
+AuthUserFile "D:\xampp\htdocs\thoi-khoa-bieu\admin\.htpasswd"
+require valid-user

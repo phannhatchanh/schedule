@@ -1,0 +1,1 @@
+document.write ("<span class='text-gray-500 text-xs'>Cập nhật lần cuối vào lúc: 16:14 04/12/2022</span>");
